@@ -13,7 +13,7 @@ Criei um banco simples de vendas fictícias para treinar os conceitos básicos d
 ## 🛠️ Ferramentas usadas
 
 - MySQL (via terminal)
-- VS Code para escrever os comandos (ou Bloco de Notas mesmo 😊)
+- VS Code para escrever os comandos 
 
 ## 📚 O que eu aprendi
 
@@ -22,10 +22,6 @@ Criei um banco simples de vendas fictícias para treinar os conceitos básicos d
 - Fazer consultas com `SELECT`, `WHERE`, `ORDER BY`
 - Fazer contas direto na consulta, tipo `quantidade * preco`
 
-## 🚀 Como rodar
 
-1. Copie o conteúdo do arquivo `analise_vendas.sql`
-2. Cole no seu MySQL (ou MySQL Workbench)
-3. Rode os comandos e divirta-se testando!
 
 
